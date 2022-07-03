@@ -1,4 +1,4 @@
-# Demo App using React Native
+# Demo application using React Native
 This project showcases a fake bitcoin tracking application using
 -Redux
 -React Native
