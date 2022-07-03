@@ -36,7 +36,7 @@ export function* getAccountInformation() {
     );
     yield put(updateAccountBalanceAction(data.balance));
   } else {
-    console.log('error recieved while getting balance------>');
+    console.log('error recieved while getting balance------>test');
   }
 }
 
