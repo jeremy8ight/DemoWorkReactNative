@@ -1,4 +1,4 @@
-# DemoWorkReactNative
+# Demo App using React Native
 This project showcases a fake bitcoin tracking application using
 -Redux
 -React Native
@@ -12,7 +12,7 @@ You can use the send Coins actions to send coins to each user
 
 
 
-DEMO OF DEMO APP:
+#DEMO OF DEMO APP:
 
 Login into the app:
 
